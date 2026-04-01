@@ -5,6 +5,3 @@ sources:
     tables:
       - name: customers
       - name: orders
-    schema: stripe
-    tables:
-      - name: payments
